@@ -1,0 +1,5 @@
+package org.example;
+
+public enum Topics {
+    TEMPERATURES, HIGH_TEMPERATURE_ALARM, TEMPERATURE_DIFFERENCE_ALARM
+}
